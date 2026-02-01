@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="API Practice Suite">
+
+    <test name="ReqRes API Tests">
+        <classes>
+            <class name="tests.GetUserTest"/>
+            <class name="tests.CreateUserTest"/>
+            <class name="tests.DeleteUserTest"/>
+        </classes>
+    </test>
+
+</suite>
