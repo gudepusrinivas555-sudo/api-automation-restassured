@@ -1,3 +1,6 @@
+Author: Srinivas
+LinkedIn: https://www.linkedin.com/in/gudepu-srinivas-aa4914378
+
 # API Automation using REST Assured (Java)
 
 ## 📌 Project Overview
