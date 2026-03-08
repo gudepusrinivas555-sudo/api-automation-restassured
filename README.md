@@ -33,7 +33,6 @@ Public API used for testing:
 - Status code validation
 - Basic response validation
 
----
 
 ## 🧪 Test Scenarios (31 Designed)
 Total **31 REST API test cases designed**, including:
@@ -48,6 +47,22 @@ Sample automation scripts are implemented for core APIs.
 
 ## ▶ How to Run the Tests
 1. Clone the repository
+
+
+
 ```bash
 git clone https://github.com/gudepusrinivas555-sudo/api-automation-restassured.git
+
+## Screenshots
+
+### API Test Execution
+![Execution](screenshots/api-test.png)
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/767b231b-d6ba-45be-92cd-9f683a271b31" />
+
+
+
+
+
+
+
 
