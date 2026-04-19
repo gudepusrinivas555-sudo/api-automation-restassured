@@ -1,3 +1,15 @@
+Features
+.Rest API validation
+.JSON schema validation
+.Authentication testing
+.Response time validation
+.Test reports
+
+Business Value
+.Ensures backend stability
+.Prevents production API failures
+.Enable fast releas cycle
+
 Author: Srinivas
 LinkedIn: https://www.linkedin.com/in/gudepu-srinivas-aa4914378
 
