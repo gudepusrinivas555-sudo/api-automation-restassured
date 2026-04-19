@@ -71,6 +71,15 @@ git clone https://github.com/gudepusrinivas555-sudo/api-automation-restassured.g
 ![Execution](screenshots/api-test.png)
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/767b231b-d6ba-45be-92cd-9f683a271b31" />
 
+Need Automation for your project?
+I provide:
+. Selenium
+. API testing
+. CI/CD integration
+. QA consulting
+
+Contact me on LinkedIn / Email
+
 
 
 
